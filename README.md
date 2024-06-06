@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fathima Athiyya</h1>
 <h3 align="center">B.ICT & B.IT Undergraduate | Front - End developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdurgeshsamariya%2Fawesome-github-profile-readme-templates%2Fblob%2Fmaster%2Ftemplates%2FMahdiiye.md&psig=AOvVaw2Mdx5aNjubFP2T5GXP0i2q&ust=1717771031476000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHvKOax4YDFQAAAAAdAAAAABAo">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athiyya07&label=Profile%20views&color=0e75b6&style=flat" alt="athiyya07" /> </p>
 
